@@ -1,7 +1,7 @@
 /**
  * Function to handle responses from an API Promise.
- * @param {Promise} promise - The Promise to handle.
- * @returns {Promise} - A Promise with specified handlers.
+ * @param {Promise} promise
+ * @returns {Promise} 
  */
 function handleResponseFromAPI(promise) {
   return promise

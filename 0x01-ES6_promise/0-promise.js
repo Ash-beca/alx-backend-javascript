@@ -1,6 +1,6 @@
 /**
  * Prototype function to get a response from an API.
- * @returns {Promise} - A Promise that immediately settles.
+ * @returns {Promise} 
  */
 export default function getResponseFromAPI() {
   return new Promise(() => {});
